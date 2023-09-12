@@ -53,7 +53,7 @@
 		<dependency>
 			<groupId>org.weakref</groupId>
 			<artifactId>jmxutils</artifactId>
-			<version>1.19</version>
+			<version>1.23</version>
 		</dependency>
 		<dependency>
 			<groupId>com.google.guava</groupId>
